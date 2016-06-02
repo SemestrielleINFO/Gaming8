@@ -1029,7 +1029,7 @@
 	#header
 	{
 		position: relative;
-		background-image: url('../images/header.jpg');
+		background-image:url('../images/header.jpg');
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -1521,7 +1521,7 @@
 		.carousel article
 		{
 			display: inline-block;
-			width: 30em;
+			width: 18em;
 			background: #fff;
 			text-align: center;
 			padding: 0 1em 3em 1em;
